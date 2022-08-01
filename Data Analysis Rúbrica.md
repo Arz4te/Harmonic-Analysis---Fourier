@@ -1,8 +1,8 @@
 # DATA ANALYSIS
-Este curso pretende dar una introducción al análisis de datos, pasando desde sistemas complejos hasta sistemas dinámicos. Es deseable que el almn@
+Este curso pretende dar una introducción al análisis de datos, pasando por conceptos como: sistemas complejos, sistemas dinámicos, estacionariedad, análisis de Fourier, algoritmos de clustering (K means e ICA), etcétera. Es deseable que el almn@
 al menos haya tomado las materias de: introducción a la computación, alegbra lineal, cálculo integral-diferencial en una variable, geometría analítica y ecuaciones diferenciales.
 
-El avance teórico de los temas se acompañará de prácticas a la par de programación en google colab, donde se puede hacer uso de notebooks de trabajo mediante python. Se recomienda recordar las cuestiones básicas python, principalmente de NUMPY. A continuación se deja el link de un libro muy útil sobre python:
+El avance teórico de los temas se hara en paralelo con prácticas de programación en google colab, donde se puede hacer uso de notebooks de trabajo mediante python. Se recomienda recordar las cuestiones básicas python, principalmente de NUMPY. A continuación se deja el link de un libro muy útil sobre python:
 * https://jakevdp.github.io/PythonDataScienceHandbook/?fbclid=IwAR3SuTQOlX6l_eU63q22wsBN0kVyscHJJweAmqYnnvd1NaZBT5lVrnywNgo
 
 ## Horario
