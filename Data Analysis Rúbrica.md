@@ -37,10 +37,8 @@ NOTA: Si no han elegido tema yo puedo asignar algún problema propuesto.
 A partir de bancos de datos que les serán explicados, se hará un análisis donde se aplicarán las herramientas vistas hasta el momento de la asignación de la tarea.
 
 
-## Temario y Bibliografía
-El temario con el contenido esta en un documento pdf en este repositorio. Cabe mencionar que debido a que es una materia optativa, el tenario es 
-flexible y se adaptará de acuerdo al perfil del grupo. A continuación se agregan un par de libros adicionales que serán útiles en el curso:
-
+# Temario y Bibliografía
+El temario propuesto está en el documento Plan de Estudios_ DATA_ANALYSIS.pdf en este repositorio. Cabe mencionar que debido a que es una materia optativa, el tenario es flexible y se adaptará de acuerdo al perfil del grupo. A continuación, se agrega bibliohrafía adicional importante en el curso:
 * Skiena, S. S. (2017). The data science design manual. Springer.
 * Kantz, H., & Schreiber, T. (2004). Nonlinear time series analysis (Vol. 7). Cambridge university press.
 * Strogatz, S. H. (2018). Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering. CRC press.
