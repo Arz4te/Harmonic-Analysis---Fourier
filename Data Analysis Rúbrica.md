@@ -31,12 +31,12 @@ Las tareas pueden ser problemas que deberán incluir el procedimiento y desarrol
 ### Exposiciones
 Se podrán designar exposiciones de temas o artículos de investigación. Quizá la explicación mediante un video de un tema corto o debates sobre algún tema particular.
 
+### Proyectos (1-2)
+A partir de bancos de datos que les serán explicados, se hará un análisis donde se aplicarán las herramientas vistas hasta el momento de la asignación de la tarea.
+
 ### Trabajo Final
 El trabajo final tiene como objetivo el análisis de un conjunto de datos de alguna base de datos libre usando los conocimientos adquiridos en el curso. Los entregables son: El resumen escrito (600 palabras máximo) y el análisis o simulación sobre algún tema de interés.
 NOTA: Si no han elegido tema yo puedo asignar algún problema propuesto.
-
-### Proyectos (1-2)
-A partir de bancos de datos que les serán explicados, se hará un análisis donde se aplicarán las herramientas vistas hasta el momento de la asignación de la tarea.
 
 ## Temario y Bibliografía
 El temario propuesto está en el documento Plan de Estudios_ DATA_ANALYSIS.pdf en este repositorio. Cabe mencionar que debido a que es una materia optativa, el temario es flexible y se adaptará de acuerdo al perfil del grupo. A continuación, se agrega bibliohrafía adicional importante para el curso:
