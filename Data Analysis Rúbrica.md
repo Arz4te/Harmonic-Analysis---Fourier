@@ -2,8 +2,8 @@
 Este curso pretende dar una introducción al análisis de datos, pasando desde sistemas complejos hasta sistemas dinámicos. Es deseable que el almn@
 al menos haya tomado las materias de: introducción a la computación, alegbra lineal, cálculo integral-diferencial en una variable, geometría analítica y ecuaciones diferenciales.
 
-El avance teórico de los temas se acompañará de prácticas a la par de programación en python.
-Por lo cuál se recomienda recordar las cuestiones básicas de NUMPY (https://jakevdp.github.io/PythonDataScienceHandbook/?fbclid=IwAR3SuTQOlX6l_eU63q22wsBN0kVyscHJJweAmqYnnvd1NaZBT5lVrnywNgo)
+El avance teórico de los temas se acompañará de prácticas a la par de programación en google colab, donde se puede hacer uso de notebooks de trabajo mediante python. Se recomienda recordar las cuestiones básicas python, principalmente de NUMPY. A continuación se deja el link de un libro muy útil sobre python:
+* https://jakevdp.github.io/PythonDataScienceHandbook/?fbclid=IwAR3SuTQOlX6l_eU63q22wsBN0kVyscHJJweAmqYnnvd1NaZBT5lVrnywNgo
 
 ## Horario
 El horario propuesto será:
