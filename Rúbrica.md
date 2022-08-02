@@ -1,4 +1,7 @@
 # DATA ANALYSIS
+
+Por favor llenar este formulario: https://docs.google.com/forms/d/e/1FAIpQLSf1d3_IXJvpEAhKJHQ858_U3xSjZ8pvvn5_r_ATuTpGcS2hCQ/viewform?usp=pp_url
+
 Este curso pretende dar una introducción al análisis de datos, pasando por conceptos como: sistemas complejos, sistemas dinámicos, estacionariedad, análisis de Fourier, algoritmos de clustering (K means e ICA), etcétera. Es deseable que el almn@
 al menos haya tomado las materias de: introducción a la computación, alegbra lineal, cálculo integral-diferencial en una variable, geometría analítica y ecuaciones diferenciales.
 
